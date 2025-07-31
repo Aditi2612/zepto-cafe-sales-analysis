@@ -51,3 +51,11 @@ This Power BI project analyzes product performance, customer behavior, and profi
 ---
 
 ## 📂 Project Structure
+zepto-cafe-sales-analysis/
+├── 📁 screenshots/ # Dashboard preview images
+│ ├── page1.png # Brand & Product Insights
+│ ├── page2.png # Profitability & KPIs
+│ ├── page3.png # Ratings & Stockouts
+│ └── page4.png # Executive Summary
+├── 📄 zepto_dashboard.pbix # Power BI file 
+
